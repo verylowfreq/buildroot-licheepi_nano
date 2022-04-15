@@ -1,6 +1,6 @@
 YAFT_VERSION = 59ef091187736200e07ee1d67d6249ad4c691542
-YAFT_LICENSE = MIT License
-YAFT_SITE = $(call github,uobikiemukot,yaft,v$(MICROPYTHON_LIB_2_VERSION))
+YAFT_SITE = https://github.com/uobikiemukot/yaft
+YAFT_SITE_METHOD = git
 YAFT_LICENSE = MIT License
 YAFT_LICENSE_FILES = LICENSE
 
