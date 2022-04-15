@@ -1,0 +1,4 @@
+source "$BR2_EXTERNAL_LICHEEPI_NANO_PATH/package/yaft/Config.in"
+source "$BR2_EXTERNAL_LICHEEPI_NANO_PATH/package/micropython118/Config.in"
+source "$BR2_EXTERNAL_LICHEEPI_NANO_PATH/package/micropython-lib-2/Config.in"
+

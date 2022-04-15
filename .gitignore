@@ -1,0 +1,3 @@
+# Ignore Buildroot main tree
+buildroot-*.*/*
+

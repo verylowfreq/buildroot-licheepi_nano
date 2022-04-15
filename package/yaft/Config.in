@@ -1,0 +1,8 @@
+config BR2_PACKAGE_YAFT
+	bool "yaft"
+	default y
+	help
+		Yet Anothor Framebuffer Terminal
+
+		https://github.com/uobikiemukot/yaft
+
