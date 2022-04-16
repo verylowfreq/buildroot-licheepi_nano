@@ -73,4 +73,4 @@ index b175610..9f987b6 100644
 +	}
  	else
  		glyphp = term->glyph[code];
- 
+
